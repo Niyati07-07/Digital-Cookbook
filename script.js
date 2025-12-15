@@ -26,7 +26,8 @@ method:[
 "Serve hot."
 ],
 
-time:"30 mins",img:"https://www.allrecipes.com/thmb/cgH3w2HEqzGcMrpX1e5ko8yWRm0=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/11969PastaBakefabeveryday4x3-ae8ac126b676413a984f5dbdae114c4c.jpg"},
+time:"30 mins",
+ img:"https://www.allrecipes.com/thmb/cgH3w2HEqzGcMrpX1e5ko8yWRm0=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/11969PastaBakefabeveryday4x3-ae8ac126b676413a984f5dbdae114c4c.jpg"},
 
 
 
@@ -59,7 +60,8 @@ method:[
 "Serve hot with fried rice or noodles.",
 ],
 
-time:"40 mins",img:"https://imgs.search.brave.com/-Ge026TmvLES6dx1GO5IosBTe2M1_q-HzccYQxsh6SE/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jZG4u/YmV5b25kdGhlYmF5/b3VibG9nLmNvbS93/cC1jb250ZW50L3Vw/bG9hZHMvMjAyNS8w/Ny9CZXN0LUthZGFp/LVBhbmVlci1SZWNp/cGUucG5n"},
+time:"40 mins",
+ img:"https://imgs.search.brave.com/-Ge026TmvLES6dx1GO5IosBTe2M1_q-HzccYQxsh6SE/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jZG4u/YmV5b25kdGhlYmF5/b3VibG9nLmNvbS93/cC1jb250ZW50L3Vw/bG9hZHMvMjAyNS8w/Ny9CZXN0LUthZGFp/LVBhbmVlci1SZWNp/cGUucG5n"},
 
 
 
@@ -91,7 +93,8 @@ method:[
 "Serve fresh with ketchup or chutney."
 ],
 
-time:"10 mins",img:"https://www.marthastewart.com/thmb/1xGDur3L-RsAbXJZTr3dsqVsUwQ=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/summer-veggie-melts-caper-sauce-7yq25zqlkhz84jh6h9kqfm-0621-horiz-2000-cb84da778cdb478399d29c50e4027950.jpg"},
+time:"10 mins",
+ img:"https://www.marthastewart.com/thmb/1xGDur3L-RsAbXJZTr3dsqVsUwQ=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/summer-veggie-melts-caper-sauce-7yq25zqlkhz84jh6h9kqfm-0621-horiz-2000-cb84da778cdb478399d29c50e4027950.jpg"},
 
 
 
@@ -128,7 +131,8 @@ time:"10 mins",img:"https://www.marthastewart.com/thmb/1xGDur3L-RsAbXJZTr3dsqVsU
 "Garnish with spring onions and serve hot."
 
 ],
-time:"25 mins",img:"https://images.unsplash.com/photo-1603133872878-684f208fb84b"},
+time:"25 mins",
+ img:"https://images.unsplash.com/photo-1603133872878-684f208fb84b"},
 
 
 
@@ -161,7 +165,8 @@ method:[
 "Serve hot with chutney and sambar."
 ],
 
-time:"40 mins",img:"https://images.pexels.com/photos/5560763/pexels-photo-5560763.jpeg?_gl=1*8ilkuc*_ga*NTM1MzQ1Ni4xNzY1NzMyOTc0*_ga_8JE65Q40S6*czE3NjU3MzI5NzQkbzEkZzAkdDE3NjU3MzI5NzQkajYwJGwwJGgw"
+time:"40 mins",
+ img:"https://images.pexels.com/photos/5560763/pexels-photo-5560763.jpeg?_gl=1*8ilkuc*_ga*NTM1MzQ1Ni4xNzY1NzMyOTc0*_ga_8JE65Q40S6*czE3NjU3MzI5NzQkbzEkZzAkdDE3NjU3MzI5NzQkajYwJGwwJGgw"
 },
 
 
@@ -196,7 +201,8 @@ method:[
 "Serve hot idli with sambar."
 ],
 
-time:"45 mins",img:"https://images.pexels.com/photos/31199041/pexels-photo-31199041.jpeg?_gl=1*q4u9ui*_ga*MTkwMzA1NTIzOC4xNzY1NzMyOTEy*_ga_8JE65Q40S6*czE3NjU3MzI5MTIkbzEkZzEkdDE3NjU3MzI5OTkkajM4JGwwJGgw"},
+time:"45 mins",
+ img:"https://images.pexels.com/photos/31199041/pexels-photo-31199041.jpeg?_gl=1*q4u9ui*_ga*MTkwMzA1NTIzOC4xNzY1NzMyOTEy*_ga_8JE65Q40S6*czE3NjU3MzI5MTIkbzEkZzEkdDE3NjU3MzI5OTkkajM4JGwwJGgw"},
 
 
 
@@ -233,7 +239,8 @@ method:[
 "Garnish with coriander and serve hot."
 ],
 
-time:"45 mins",img:"https://media.istockphoto.com/id/1497379904/photo/rajma-masala-is-a-delicious-gravy-made-by-cooking-red-beans-with-onion-tomatoes-and-basic.jpg?s=1024x1024&w=is&k=20&c=K9ig6KEkg8BgOkshzPJig4sNMPvqz5dSa1yj0vCOtNE="},
+time:"45 mins",
+ img:"https://media.istockphoto.com/id/1497379904/photo/rajma-masala-is-a-delicious-gravy-made-by-cooking-red-beans-with-onion-tomatoes-and-basic.jpg?s=1024x1024&w=is&k=20&c=K9ig6KEkg8BgOkshzPJig4sNMPvqz5dSa1yj0vCOtNE="},
 
 
 
@@ -269,7 +276,8 @@ method:[
 "Serve hot with raita."
 ],
 
-time:"50 mins",img:"https://www.cookingcarnival.com/wp-content/uploads/2025/09/Vegetable-Dum-Biryani-2.webp"},
+time:"50 mins",
+ img:"https://www.cookingcarnival.com/wp-content/uploads/2025/09/Vegetable-Dum-Biryani-2.webp"},
 
 
 
@@ -306,7 +314,8 @@ method:[
 "Serve hot poha."
 ],
 
-time:"25 mins",img:"https://img.freepik.com/premium-photo/indian-food-71_1266756-2810.jpg"},
+time:"25 mins",
+ img:"https://img.freepik.com/premium-photo/indian-food-71_1266756-2810.jpg"},
 
 
 
@@ -343,7 +352,8 @@ method:[
 "Garnish with coriander and serve hot."
 ],
 
-time:"30 mins",img:"https://as2.ftcdn.net/v2/jpg/10/88/62/83/1000_F_1088628359_6ZskzdYQNvfT1QICDXE0W9kpISi4kgS4.jpg"},
+time:"30 mins",
+ img:"https://as2.ftcdn.net/v2/jpg/10/88/62/83/1000_F_1088628359_6ZskzdYQNvfT1QICDXE0W9kpISi4kgS4.jpg"},
 
 
 
@@ -379,7 +389,8 @@ method:[
 "Serve with curd, butter or pickle."
 ],
 
-time:"35 mins",img:"https://media.istockphoto.com/id/1418692758/photo/north-indian-famous-food-aloo-paratha-with-mango-pickle-and-butter.jpg?s=1024x1024&w=is&k=20&c=343s0a8tIMTgXqawGujoGFGdRVpTJZFu3i24W2N_p7o="},
+time:"35 mins",
+ img:"https://media.istockphoto.com/id/1418692758/photo/north-indian-famous-food-aloo-paratha-with-mango-pickle-and-butter.jpg?s=1024x1024&w=is&k=20&c=343s0a8tIMTgXqawGujoGFGdRVpTJZFu3i24W2N_p7o="},
 
 
 
@@ -409,7 +420,8 @@ method:[
 "Remove and drain excess oil using kitchen paper.",
 "Serve hot with sweet chili sauce, tomato ketchup, or soy sauce.",
 ],
-time:"30 minutes",img:"https://cdn.shopify.com/s/files/1/1785/5627/t/60/assets/origins_of_spring_rolls-1699236738036_800x.jpg?v=1699236738"},
+time:"30 minutes",
+ img:"https://cdn.shopify.com/s/files/1/1785/5627/t/60/assets/origins_of_spring_rolls-1699236738036_800x.jpg?v=1699236738"},
 
 
 
@@ -440,7 +452,8 @@ method:[
 "Remove from oven and let it rest for 2–3 minutes.",
 "Slice into wedges and serve hot.",
 ],
-time:"25-30 minutes",img:"https://rahicafe.com/wp-content/uploads/2022/03/pizza-farm-house.jpg"},
+time:"25-30 minutes",
+ img:"https://rahicafe.com/wp-content/uploads/2022/03/pizza-farm-house.jpg"},
 
 
 
@@ -469,7 +482,8 @@ method:[
 "Place a slice of cheese on top (optional).",
 "Cover with the top bun and serve hot."
 ],
-time:"20-25 minutes",img:"https://images.unsplash.com/photo-1550547660-d9450f859349"},
+time:"20-25 minutes",
+ img:"https://images.unsplash.com/photo-1550547660-d9450f859349"},
 
 
 
@@ -494,7 +508,8 @@ method:[
 "Repeat with remaining batter.",
 "Serve warm with syrup, honey, fruits, or chocolate sauce."
 ],
-time:"15 minutes",img:"https://media.istockphoto.com/id/161170090/photo/pancakes-with-berries-and-maple-syrup.jpg?s=1024x1024&w=is&k=20&c=Vwpm59WrkyI4IsK8ISynaIzKiHrwWebnGgYGoR6CewI="},
+time:"15 minutes",
+ img:"https://media.istockphoto.com/id/161170090/photo/pancakes-with-berries-and-maple-syrup.jpg?s=1024x1024&w=is&k=20&c=Vwpm59WrkyI4IsK8ISynaIzKiHrwWebnGgYGoR6CewI="},
 
 
 
@@ -524,7 +539,8 @@ method:[
 "Season with salt and pepper.",
 "Serve hot, optionally garnish with croutons or extra cheese."
 ],
-time:"25-30 minutes",img:"https://damndelicious.net/wp-content/uploads/2022/12/211129_DAMN-DELICIOUS_Broccoli-Cheddar-Soup_307.jpg.webp"},
+time:"25-30 minutes",
+ img:"https://damndelicious.net/wp-content/uploads/2022/12/211129_DAMN-DELICIOUS_Broccoli-Cheddar-Soup_307.jpg.webp"},
 
 
 
@@ -562,7 +578,8 @@ method:[
 "Serve hot bhaji with pav and lemon."
 ],
 
-time:"40 mins",img:"https://as2.ftcdn.net/v2/jpg/15/38/82/03/1000_F_1538820370_w76n5LRL1pQrNE748UhZbo8DeAPqozrY.jpg"},
+time:"40 mins",
+ img:"https://as2.ftcdn.net/v2/jpg/15/38/82/03/1000_F_1538820370_w76n5LRL1pQrNE748UhZbo8DeAPqozrY.jpg"},
 
 
 
@@ -601,7 +618,8 @@ method:[
 "Switch off flame and serve hot."
 ],
 
-time:"40 mins",img:"https://media.istockphoto.com/id/1205482006/photo/chinese-gobi-or-cabbage-manchurian.jpg?s=1024x1024&w=is&k=20&c=rpRV-huoxYtUyWZB7R8Shbrz2f3VrzQ6qmg0dWtrOZ0="},
+time:"40 mins",
+ img:"https://media.istockphoto.com/id/1205482006/photo/chinese-gobi-or-cabbage-manchurian.jpg?s=1024x1024&w=is&k=20&c=rpRV-huoxYtUyWZB7R8Shbrz2f3VrzQ6qmg0dWtrOZ0="},
 
 
 
@@ -636,7 +654,8 @@ method:[
 "Serve hot with spicy chili sauce or tomato chutney."
 ],
 
-time:"40 mins",img:"https://media.istockphoto.com/id/1082284630/photo/chicken-momo-served-in-a-wooden-box-top-view.jpg?s=1024x1024&w=is&k=20&c=p47SBg7hohvo3mLUNZqNstfA4GR2mZU3ZKlN_R49QsM="},
+time:"40 mins",
+ img:"https://media.istockphoto.com/id/1082284630/photo/chicken-momo-served-in-a-wooden-box-top-view.jpg?s=1024x1024&w=is&k=20&c=p47SBg7hohvo3mLUNZqNstfA4GR2mZU3ZKlN_R49QsM="},
 
 
 
@@ -665,7 +684,8 @@ method:[
 "Refill pani as needed and continue serving."
 ],
 
-time:"30 mins",img:"https://i.pinimg.com/1200x/fa/d8/cd/fad8cdc878609c22cb33ff13ff46bc28.jpg"},
+time:"30 mins",
+ img:"https://i.pinimg.com/1200x/fa/d8/cd/fad8cdc878609c22cb33ff13ff46bc28.jpg"},
 
 
 
@@ -693,7 +713,8 @@ method:[
 "Optionally, garnish with dark chocolate shavings.",
 "Refrigerate for 4–6 hours or overnight for best results.",
 "Slice and serve chilled."
-],time:"20 mins",img:"https://imgs.search.brave.com/ZESyh9qai8_zmRYhqA606k_-m4SxIgDnzr9J6hHJXpQ/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9zdGF0/aWMudmVjdGVlenku/Y29tL3N5c3RlbS9y/ZXNvdXJjZXMvdGh1/bWJuYWlscy8wNzMv/NTc4LzU0Mi9zbWFs/bC9kZWxpY2lvdXMt/dGlyYW1pc3UtZGVz/c2VydC1zZXJ2ZWQt/aW4tZ2xhc3Mtb24t/YS1wbGF0ZS1waG90/by5qcGVn"},
+],time:"20 mins",
+ img:"https://imgs.search.brave.com/ZESyh9qai8_zmRYhqA606k_-m4SxIgDnzr9J6hHJXpQ/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9zdGF0/aWMudmVjdGVlenku/Y29tL3N5c3RlbS9y/ZXNvdXJjZXMvdGh1/bWJuYWlscy8wNzMv/NTc4LzU0Mi9zbWFs/bC9kZWxpY2lvdXMt/dGlyYW1pc3UtZGVz/c2VydC1zZXJ2ZWQt/aW4tZ2xhc3Mtb24t/YS1wbGF0ZS1waG90/by5qcGVn"},
 
 
 
@@ -729,7 +750,8 @@ method:[
 "Serve hot Thukpa in bowls."
 ],
 
-time:"30 mins",img:"https://as1.ftcdn.net/v2/jpg/17/28/81/18/1000_F_1728811806_jVXVQvIxd5mqdX0X0aLDIPytq1N9GMQK.jpg"},
+time:"30 mins",
+ img:"https://as1.ftcdn.net/v2/jpg/17/28/81/18/1000_F_1728811806_jVXVQvIxd5mqdX0X0aLDIPytq1N9GMQK.jpg"},
 
 
 
@@ -764,7 +786,8 @@ method:[
 "Serve chilled and enjoy."
 ],
 
-time:"5 hrs",img:"https://www.southernliving.com/thmb/w5DvjdgTN09zbYbuDxHackTIU-g=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Chocolate-Covered-Strawberry-Cheesecake_WD0156-S-29da911d0e1a414b9e1e7b2c800f6bde.jpg"},
+time:"5 hrs",
+ img:"https://www.southernliving.com/thmb/w5DvjdgTN09zbYbuDxHackTIU-g=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Chocolate-Covered-Strawberry-Cheesecake_WD0156-S-29da911d0e1a414b9e1e7b2c800f6bde.jpg"},
 
 
 
@@ -797,7 +820,8 @@ method:[
 "Serve immediately while warm."
 ],
 
-time:"25 mins",img:"https://imgs.search.brave.com/qf5vDLGRQEBzT_1-e5nfVa86hhr4rARswCAgJO0JnjQ/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/cHJlbWl1bS1waG90/by9pbWFnZS1wbGF0/ZS1idXJyaXRvcy1w/bGFjZWQtd2hpdGUt/cGxhdGUtd29vZGVu/LXRhYmxlLTY0XzUx/NTQyNy01NDQ4Lmpw/Zw"},
+time:"25 mins",
+ img:"https://imgs.search.brave.com/qf5vDLGRQEBzT_1-e5nfVa86hhr4rARswCAgJO0JnjQ/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/cHJlbWl1bS1waG90/by9pbWFnZS1wbGF0/ZS1idXJyaXRvcy1w/bGFjZWQtd2hpdGUt/cGxhdGUtd29vZGVu/LXRhYmxlLTY0XzUx/NTQyNy01NDQ4Lmpw/Zw"},
 
 
 
@@ -833,7 +857,8 @@ method:[
 "Serve hot with bread or pita."
 ],
 
-time:"30 mins",img:"https://georgeats.com/wp-content/uploads/2020/04/DSC_6497small-1367x2048.jpg"},
+time:"30 mins",
+ img:"https://georgeats.com/wp-content/uploads/2020/04/DSC_6497small-1367x2048.jpg"},
 
 
 
@@ -866,7 +891,8 @@ method:[
 "Serve and enjoy freshly baked chocolate chip cookies."
 ],
 
-time:"25 mins",img:"https://cdn.pixabay.com/photo/2023/12/20/09/32/ai-generated-8459405_1280.jpg"},
+time:"25 mins",
+ img:"https://cdn.pixabay.com/photo/2023/12/20/09/32/ai-generated-8459405_1280.jpg"},
 
 
 
@@ -898,7 +924,8 @@ method:[
 "Cut into wedges and serve hot with dipping sauce."
 ],
 
-time:"35 mins",img:"https://www.hiddenboston.com/images/TaiwanCafeScallionPancakes.jpg"},
+time:"35 mins",
+ img:"https://www.hiddenboston.com/images/TaiwanCafeScallionPancakes.jpg"},
 
 
 
@@ -933,7 +960,8 @@ method:[
 "Serve immediately with ice cream or whipped cream."
 ],
 
-time:"30 mins",img:"https://imgs.search.brave.com/H6qmMY3hzKGcvzxx159-1rHkYn62S4blFqeLBSZIhLw/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly90NC5m/dGNkbi5uZXQvanBn/LzE3Lzk1LzA2LzE1/LzM2MF9GXzE3OTUw/NjE1MDhfYVRPbFph/T01sWW9oYVd5Mnpp/WUFzcmIxY0xzVFpy/b3EuanBn"},
+time:"30 mins",
+ img:"https://imgs.search.brave.com/H6qmMY3hzKGcvzxx159-1rHkYn62S4blFqeLBSZIhLw/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly90NC5m/dGNkbi5uZXQvanBn/LzE3Lzk1LzA2LzE1/LzM2MF9GXzE3OTUw/NjE1MDhfYVRPbFph/T01sWW9oYVd5Mnpp/WUFzcmIxY0xzVFpy/b3EuanBn"},
 
 
 
@@ -966,7 +994,8 @@ method:[
 "Repeat with remaining ingredients."
 ],
 
-time:"50 mins",img:"https://imgs.search.brave.com/SwK9FAPn64zRscos7BO_wj6gtAFxBVv1dXjVnjIxcLc/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly90aHVt/YnMuZHJlYW1zdGlt/ZS5jb20vYi9zdXNo/aS0yNzI0NTc1MC5q/cGc"},
+time:"50 mins",
+ img:"https://imgs.search.brave.com/SwK9FAPn64zRscos7BO_wj6gtAFxBVv1dXjVnjIxcLc/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly90aHVt/YnMuZHJlYW1zdGlt/ZS5jb20vYi9zdXNo/aS0yNzI0NTc1MC5q/cGc"},
 
 
 
@@ -1004,7 +1033,8 @@ method:[
 "Remove from steamer carefully and serve hot with dipping sauce."
 ],
 
-time:"2 hrs",img:"https://imgs.search.brave.com/cZUCavbTHKISo4jBxomUqjmidoP38evUhMLAaGpOUyE/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jZG4u/YXBhcnRtZW50dGhl/cmFweS5pbmZvL2lt/YWdlL3VwbG9hZC9m/X2F1dG8scV9hdXRv/OmVjbyx3Xzg0NS9r/L1Bob3RvL1JlY2lw/ZXMvMjAyMS0wMi1o/b3ctdG8tYmFvLWJ1/bnMvUG9ya19CdW5f/SGVyb18yX1YyXzQw/Mjcw"},
+time:"2 hrs",
+ img:"https://imgs.search.brave.com/cZUCavbTHKISo4jBxomUqjmidoP38evUhMLAaGpOUyE/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jZG4u/YXBhcnRtZW50dGhl/cmFweS5pbmZvL2lt/YWdlL3VwbG9hZC9m/X2F1dG8scV9hdXRv/OmVjbyx3Xzg0NS9r/L1Bob3RvL1JlY2lw/ZXMvMjAyMS0wMi1o/b3ctdG8tYmFvLWJ1/bnMvUG9ya19CdW5f/SGVyb18yX1YyXzQw/Mjcw"},
 
 
 
@@ -1040,7 +1070,8 @@ method:[
 "Serve hot with steamed rice or noodles."
 ],
 
-time:"35 mins",img:"https://imgs.search.brave.com/9gxvi_iYldQRA_RGew4XaeSqKFJ1xChcpC62fdxiZNQ/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/bGVjcmVtZWRlbGFj/cnVtYi5jb20vd3At/Y29udGVudC91cGxv/YWRzLzIwMjAvMDUv/dGhhaS1jaGlja2Vu/LWNvY29udXQtbWls/ay01c20tMi5qcGc"},
+time:"35 mins",
+ img:"https://imgs.search.brave.com/9gxvi_iYldQRA_RGew4XaeSqKFJ1xChcpC62fdxiZNQ/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/bGVjcmVtZWRlbGFj/cnVtYi5jb20vd3At/Y29udGVudC91cGxv/YWRzLzIwMjAvMDUv/dGhhaS1jaGlja2Vu/LWNvY29udXQtbWls/ay01c20tMi5qcGc"},
 
 
 
@@ -1071,7 +1102,8 @@ method:[
 "Serve immediately while hot."
 ],
 
-time:"20 mins",img:"https://static01.nyt.com/images/2019/02/10/dining/Scallops-With-Brown-Butter-Capers-and-Lemon/merlin_149985834_b8c47447-abc4-4045-9446-7be2dbc66b6c-threeByTwoMediumAt2X.jpg?quality=75&auto=webp"},
+time:"20 mins",
+ img:"https://static01.nyt.com/images/2019/02/10/dining/Scallops-With-Brown-Butter-Capers-and-Lemon/merlin_149985834_b8c47447-abc4-4045-9446-7be2dbc66b6c-threeByTwoMediumAt2X.jpg?quality=75&auto=webp"},
 
 
 
@@ -1101,7 +1133,8 @@ method:[
 "Serve chilled and enjoy."
 ],
 
-time:"2 hrs 30 mins",img:"https://images.pexels.com/photos/3026810/pexels-photo-3026810.jpeg?_gl=1*1oomnx7*_ga*MTkwMzA1NTIzOC4xNzY1NzMyOTEy*_ga_8JE65Q40S6*czE3NjU3MzU5ODgkbzIkZzEkdDE3NjU3MzY4NjkkajYwJGwwJGgw"},
+time:"2 hrs 30 mins",
+ img:"https://images.pexels.com/photos/3026810/pexels-photo-3026810.jpeg?_gl=1*1oomnx7*_ga*MTkwMzA1NTIzOC4xNzY1NzMyOTEy*_ga_8JE65Q40S6*czE3NjU3MzU5ODgkbzIkZzEkdDE3NjU3MzY4NjkkajYwJGwwJGgw"},
 
 
 
@@ -1137,7 +1170,8 @@ method:[
 "Serve immediately or chill before serving."
 ],
 
-time:"1 hr 30 mins",img:"https://imgs.search.brave.com/0-_jNB1l2nNVM7VTVjIlLAVGrmv5nZsTujyzfi8mpOY/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvMTU1/Nzc2NDgzL3Bob3Rv/L2Nob2NvbGF0ZS1h/bmQtcGVjYW4tY2Fu/bm9saXMuanBnP3M9/NjEyeDYxMiZ3PTAm/az0yMCZjPTNYZFBw/Zi1yWjlzZk9DeDZY/OEpVZi1xUGlvdllN/ak8tTEk3TGZfVUlB/ODQ9"},
+time:"1 hr 30 mins",
+ img:"https://imgs.search.brave.com/0-_jNB1l2nNVM7VTVjIlLAVGrmv5nZsTujyzfi8mpOY/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvMTU1/Nzc2NDgzL3Bob3Rv/L2Nob2NvbGF0ZS1h/bmQtcGVjYW4tY2Fu/bm9saXMuanBnP3M9/NjEyeDYxMiZ3PTAm/az0yMCZjPTNYZFBw/Zi1yWjlzZk9DeDZY/OEpVZi1xUGlvdllN/ak8tTEk3TGZfVUlB/ODQ9"},
 
 
 
@@ -1173,7 +1207,8 @@ method:[
 "Serve hot as a snack or appetizer."
 ],
 
-time:"30 mins",img:"https://i.pinimg.com/1200x/5d/bd/9a/5dbd9a2f5a44fe6a6edd933e2ccd4ed4.jpg"},
+time:"30 mins",
+ img:"https://i.pinimg.com/1200x/5d/bd/9a/5dbd9a2f5a44fe6a6edd933e2ccd4ed4.jpg"},
 
 
 
@@ -1203,7 +1238,8 @@ method:[
 "Slice and serve hot."
 ],
 
-time:"30 mins",img:"https://imgs.search.brave.com/7QOBXj_i5Vlgk4LeLdyMe9YSU3sTrzyP0RC-emgAZtA/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9zdGF0/aWMudG9paW1nLmNv/bS90aHVtYi81MjYw/MjIwNS5jbXM_d2lk/dGg9NTczJmhlaWdo/dD0zODI"},
+time:"30 mins",
+ img:"https://imgs.search.brave.com/7QOBXj_i5Vlgk4LeLdyMe9YSU3sTrzyP0RC-emgAZtA/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9zdGF0/aWMudG9paW1nLmNv/bS90aHVtYi81MjYw/MjIwNS5jbXM_d2lk/dGg9NTczJmhlaWdo/dD0zODI"},
 
 
 
@@ -1235,7 +1271,8 @@ method:[
 "Slice roulade and serve hot."
 ],
 
-time:"1 hr 15 mins",img:"https://images.getrecipekit.com/20231210173608-stuffed-20turkey-20roll.jpg?aspect_ratio=16:9&quality=90&"},
+time:"1 hr 15 mins",
+ img:"https://images.getrecipekit.com/20231210173608-stuffed-20turkey-20roll.jpg?aspect_ratio=16:9&quality=90&"},
 
 
 
@@ -1272,7 +1309,8 @@ method:[
 "Let lasagna rest for 5 minutes before slicing and serving."
 ],
 
-time:"1 hr",img:"https://imgs.search.brave.com/Q43OHc5pjNfW06TikxQdDPrX6d1VT5mW1M7AhMd57u0/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly90aGVl/YXN0Y29hc3RraXRj/aGVuLmNvbS93cC1j/b250ZW50L3VwbG9h/ZHMvMjAyNC8xMi9T/aGVldC1UcmF5LUxh/c2FnbmEtMzMtbWlu/LTEwMjR4NTc2Lmpw/Zw"},
+time:"1 hr",
+ img:"https://imgs.search.brave.com/Q43OHc5pjNfW06TikxQdDPrX6d1VT5mW1M7AhMd57u0/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly90aGVl/YXN0Y29hc3RraXRj/aGVuLmNvbS93cC1j/b250ZW50L3VwbG9h/ZHMvMjAyNC8xMi9T/aGVldC1UcmF5LUxh/c2FnbmEtMzMtbWlu/LTEwMjR4NTc2Lmpw/Zw"},
 
 
 
@@ -1306,7 +1344,8 @@ method:[
 "Slice and serve as breakfast or snack."
 ],
 
-time:"1 hr 15 mins",img:"https://imgs.search.brave.com/9aiSXjD6wrGJg6ot4k_T6HG_Vq_zEdEytBR_MqKmPGA/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuYXJsYS5jb20v/cmVjb3JkaWQvMjUx/MTQxMzYtQ0M5My00/QzZFLUE2NTg4MEQw/Nzk4QUE5RUMvYmFu/YW5hLWNha2UxLmpw/Zz93aWR0aD0zNzUm/aGVpZ2h0PTI2NSZt/b2RlPWNyb3AmZm9y/bWF0PXdlYnA"},
+time:"1 hr 15 mins",
+ img:"https://imgs.search.brave.com/9aiSXjD6wrGJg6ot4k_T6HG_Vq_zEdEytBR_MqKmPGA/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuYXJsYS5jb20v/cmVjb3JkaWQvMjUx/MTQxMzYtQ0M5My00/QzZFLUE2NTg4MEQw/Nzk4QUE5RUMvYmFu/YW5hLWNha2UxLmpw/Zz93aWR0aD0zNzUm/aGVpZ2h0PTI2NSZt/b2RlPWNyb3AmZm9y/bWF0PXdlYnA"},
 
 
 
@@ -1343,7 +1382,8 @@ method:[
 "Serve warm with green chutney or tamarind chutney."
 ],
 
-time:"35 mins",img:"https://imgs.search.brave.com/4d2640pMLPZSJPim6KyNlarwMvLEv4-TatNpThaNS5g/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pMC53/cC5jb20vYnVkZHlt/YW50cmEuY29tL3dw/LWNvbnRlbnQvdXBs/b2Fkcy8yMDIwLzA4/L0ZlYXR1cmVkLWlt/YWdlLTItMS0xMDI0/eDUyOC5qcGc_cmVz/aXplPTY5NiwzNTkm/c3NsPTE"},
+time:"35 mins",
+ img:"https://imgs.search.brave.com/4d2640pMLPZSJPim6KyNlarwMvLEv4-TatNpThaNS5g/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pMC53/cC5jb20vYnVkZHlt/YW50cmEuY29tL3dw/LWNvbnRlbnQvdXBs/b2Fkcy8yMDIwLzA4/L0ZlYXR1cmVkLWlt/YWdlLTItMS0xMDI0/eDUyOC5qcGc_cmVz/aXplPTY5NiwzNTkm/c3NsPTE"},
 
 
 
@@ -1382,7 +1422,8 @@ method:[
 "Serve immediately with salsa or hot sauce on the side."
 ],
 
-time:"25 mins",img:"https://imgs.search.brave.com/D4SIYDUqpe5u22Ww6IyAA5sAgwpAb3dUSKYJnyAlDDE/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/dGFzdGV3aXRodGhl/ZXllcy5jb20vd3At/Y29udGVudC91cGxv/YWRzLzIwMTEvMTEv/TUdfODg5MS5qcGc"},
+time:"25 mins",
+ img:"https://imgs.search.brave.com/D4SIYDUqpe5u22Ww6IyAA5sAgwpAb3dUSKYJnyAlDDE/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/dGFzdGV3aXRodGhl/ZXllcy5jb20vd3At/Y29udGVudC91cGxv/YWRzLzIwMTEvMTEv/TUdfODg5MS5qcGc"},
 
 
 
@@ -1420,7 +1461,8 @@ method:[
 "Serve warm or at room temperature with a glass of milk or coffee."
 ],
 
-time:"30 mins",img:"https://imgs.search.brave.com/nvoP9ITEZNffCQanUVT10t1pOQ4IB2Hltpgqk0MTs-w/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMucGV4ZWxzLmNv/bS9waG90b3MvNTg0/NzAwNi9wZXhlbHMt/cGhvdG8tNTg0NzAw/Ni5qcGVnP2F1dG89/Y29tcHJlc3MmY3M9/dGlueXNyZ2ImZHBy/PTEmdz01MDA"},
+time:"30 mins",
+ img:"https://imgs.search.brave.com/nvoP9ITEZNffCQanUVT10t1pOQ4IB2Hltpgqk0MTs-w/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMucGV4ZWxzLmNv/bS9waG90b3MvNTg0/NzAwNi9wZXhlbHMt/cGhvdG8tNTg0NzAw/Ni5qcGVnP2F1dG89/Y29tcHJlc3MmY3M9/dGlueXNyZ2ImZHBy/PTEmdz01MDA"},
 
 
 
@@ -1454,7 +1496,8 @@ method:[
 "Serve hot with sour cream or salsa."
 ],
 
-time:"20 mins",img:"https://imgs.search.brave.com/JOKkZmLMlhIXsF6C4tFTf3Ul_uwt5f0eiGWapOcHAcU/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9oZWxs/b3ZlZ2dpZS5jby93/cC1jb250ZW50L3Vw/bG9hZHMvMjAxOS8w/NC9QZXBwZXItSmFj/ay1WZWdnaWUtUXVl/c2FkaWxsYXMtSGVs/bG8tVmVnZ2llLTEx/LmpwZw"},
+time:"20 mins",
+ img:"https://imgs.search.brave.com/JOKkZmLMlhIXsF6C4tFTf3Ul_uwt5f0eiGWapOcHAcU/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9oZWxs/b3ZlZ2dpZS5jby93/cC1jb250ZW50L3Vw/bG9hZHMvMjAxOS8w/NC9QZXBwZXItSmFj/ay1WZWdnaWUtUXVl/c2FkaWxsYXMtSGVs/bG8tVmVnZ2llLTEx/LmpwZw"},
 
 
 
@@ -1492,7 +1535,8 @@ time:"20 mins",img:"https://imgs.search.brave.com/JOKkZmLMlhIXsF6C4tFTf3Ul_uwt5f
   "Garnish with herbs and serve hot Alfredo pasta."
   ],
 
-  time: "30 mins",img:"https://imgs.search.brave.com/DEcV9fQPH-U4rG8Me0GlHBqmV5Bf5ZD-7lHzSP_rSc8/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/dGFzdGVvZmhvbWUu/Y29tL3dwLWNvbnRl/bnQvdXBsb2Fkcy8y/MDI1LzAxL1Nocmlt/cC1BbGZyZWRvX0ZU/MjRfMzAwOTJfSlJf/MDIwOF8zLmpwZz9m/aXQ9NzAwLDEwMjQ" 
+  time: "30 mins",
+ img:"https://imgs.search.brave.com/DEcV9fQPH-U4rG8Me0GlHBqmV5Bf5ZD-7lHzSP_rSc8/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/dGFzdGVvZmhvbWUu/Y29tL3dwLWNvbnRl/bnQvdXBsb2Fkcy8y/MDI1LzAxL1Nocmlt/cC1BbGZyZWRvX0ZU/MjRfMzAwOTJfSlJf/MDIwOF8zLmpwZz9m/aXQ9NzAwLDEwMjQ" 
 }
 
 
@@ -1539,7 +1583,7 @@ function performSearch(){
   const filtered = recipes.filter(r => {
     const nameMatch = r.name.toLowerCase().includes(q);
 
-    // Convert ingredients array to string
+    
     const ingredientsText = Array.isArray(r.ingredients)
       ? r.ingredients.join(" ").toLowerCase()
       : r.ingredients.toLowerCase();
@@ -1578,5 +1622,6 @@ function validateContact(){
   contactMsg.innerHTML="<p class='success'>Message sent successfully</p>";
   return false;
 }
+
 
 
