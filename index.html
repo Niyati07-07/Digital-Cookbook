@@ -13,61 +13,61 @@
   <div class="header-container">
     <div class="logo">COOKBOOK</div>
     <nav>
-      <a onclick="showPage('home')">Home</a>
-      <a onclick="showPage('recipes')">Recipes</a>
-      <a onclick="showPage('login')">Login</a>
-      <a onclick="showPage('contact')">Contact</a>
+    <a onclick="showPage('home')">Home</a>
+    <a onclick="showPage('recipes')">Recipes</a>
+    <a onclick="showPage('login')">Login</a>
+    <a onclick="showPage('contact')">Contact</a>
     </nav>
   </div>
 </header>
 
 <section id="home">
   <div class="container">
-    <h1>Welcome to Cookbook</h1>
-    <p>Search recipes by name or ingredients</p>
+  <h1>Welcome to Cookbook</h1>
+     <p>Search recipes by name or ingredients</p>
     <div class="search-box">
-      <input id="searchInput" placeholder="Search recipe or ingredient">
-      <button onclick="performSearch()">Search</button>
+    <input id="searchInput" placeholder="Search recipe or ingredient">
+    <button onclick="performSearch()">Search</button>
     </div>
-  </div>
+     </div>
 </section>
 
 <section id="recipes">
   <div class="container">
-    <h2>All Recipes</h2>
-    <div id="noResult">Recipe not found</div>
-    <div id="allRecipes" class="recipe-grid"></div>
-  </div>
-</section>
+     <h2>All Recipes</h2>
+      <div id="noResult">Recipe not found</div>
+      <div id="allRecipes" class="recipe-grid"></div>
+      </div>
+  </section>
 
 <section id="recipeDetail">
   <div class="container">
-    <div class="card">
-      <div class="detail-flex">
-        <img id="detailImg">
-        <div class="detail-text">
-          <h2 id="detailName"></h2>
-          <p><b>⏱ Time:</b> <span id="detailTime"></span></p>
-          <p><b>Ingredients:</b></p>
-          <p id="detailIngredients"></p>
-          <p><b>Method:</b></p>
-          <ol id="detailMethod"></ol>
-        </div>
-      </div>
-      <button onclick="showPage('recipes')">⬅ Back</button>
+  <div class="card">
+  <div class="detail-flex">
+  <img id="detailImg">
+  <div class="detail-text">
+    <h2 id="detailName"></h2>
+    <p><b>⏱ Time:</b> <span id="detailTime"></span></p>
+    <p><b>Ingredients:</b></p>
+    <p id="detailIngredients"></p>
+    <p><b>Method:</b></p>
+    <ol id="detailMethod"></ol>
     </div>
+        </div>
+    <button onclick="showPage('recipes')">⬅ Back</button>
+  </div>
   </div>
 </section>
 
 <section id="login">
   <div class="container">
-    <h2>Login</h2>
-    <form onsubmit="return validateLogin()">
-      <input id="loginUser" placeholder="Username">
-      <input id="loginPass" type="password" placeholder="Password">
-      <div id="loginMsg"></div>
-      <button>Login</button>
-    </form>
+  <h2>Login</h2>
+  <form onsubmit="return validateLogin()">
+  <input id="loginUser" placeholder="Username">
+  <input id="loginPass" type="password" placeholder="Password">
+  <div id="loginMsg"></div>
+  <button>Login</button>
+      </form>
   </div>
 </section>
 
@@ -75,12 +75,12 @@
   <div class="container">
     <h2>Contact Us</h2>
     <form onsubmit="return validateContact()">
-      <input id="cname" placeholder="Name">
-      <input id="cemail" placeholder="Email">
-      <textarea id="cmsg" placeholder="Message"></textarea>
-      <div id="contactMsg"></div>
-      <button>Send</button>
-    </form>
+    <input id="cname" placeholder="Name">
+    <input id="cemail" placeholder="Email">
+    <textarea id="cmsg" placeholder="Message"></textarea>
+    <div id="contactMsg"></div>
+  <button>Send</button>
+  </form>
   </div>
 </section>
 
@@ -97,4 +97,5 @@
 </footer>
 
 </body>
+
 </html>
