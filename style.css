@@ -1,8 +1,6 @@
 
 *{box-sizing:border-box;font-family:Arial,sans-serif}
 body{margin:0;background:#f4f4f4}
-
-/* HEADER */
 header{background:#333;padding:20px 0}
 .header-container{
   display:flex;
@@ -21,11 +19,9 @@ nav a{
 }
 nav a:hover,.logo:hover{color:#ffcc00}
 
-/* SECTIONS */
 section{display:none;padding:40px 30px;min-height:85vh}
 .container{max-width:1100px;margin:auto;text-align:center}
 
-/* HOME */
 #home{
   display:block;
   background:url('https://images.unsplash.com/photo-1504674900247-0877df9cc836');
@@ -42,7 +38,7 @@ section{display:none;padding:40px 30px;min-height:85vh}
 }
 #home .container{position:relative}
 
-/* SEARCH */
+
 .search-box{max-width:400px;margin:30px auto}
 .search-box input,.search-box button{
   width:100%;
@@ -55,7 +51,7 @@ section{display:none;padding:40px 30px;min-height:85vh}
 }
 .search-box button:hover{background:#ffcc00;color:#333}
 
-/* NOT FOUND MESSAGE */
+
 #noResult{
   display:none;
   max-width:500px;
@@ -75,7 +71,7 @@ section{display:none;padding:40px 30px;min-height:85vh}
   100%{transform:scale(1);opacity:1}
 }
 
-/* RECIPE GRID */
+
 .recipe-grid{
   display:grid;
   grid-template-columns:repeat(auto-fit,minmax(220px,1fr));
@@ -95,7 +91,7 @@ section{display:none;padding:40px 30px;min-height:85vh}
   cursor:pointer;
 }
 
-/* DETAIL */
+
 .detail-flex{
   display:flex;
   gap:30px;
@@ -105,7 +101,7 @@ section{display:none;padding:40px 30px;min-height:85vh}
 .detail-flex img{width:320px;border-radius:10px}
 .detail-text{text-align:left;max-width:550px}
 
-/* FORMS */
+
 form{
   max-width:350px;
   margin:auto;
@@ -124,7 +120,7 @@ button:hover{background:#ffcc00;color:#333}
 .success{color:green;font-weight:bold}
 .error{color:red}
 
-/* FOOTER */
+
 footer{
   background:#333;
   color:white;
@@ -143,3 +139,4 @@ footer{
 }
 .footer-links a:hover{text-decoration:underline}
 footer p{font-size:14px;color:#ddd}
+
